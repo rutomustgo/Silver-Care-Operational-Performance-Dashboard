@@ -1,4 +1,8 @@
 # Silver-Care-Operational-Performance-Dashboard
+![Silver Care Dashboard Preview](dashboard_preview.png)
+
+<img width="1344" height="621" alt="image" src="https://github.com/user-attachments/assets/af9fe97c-0dc9-4493-8444-8fac3f5b017a" />
+
 To provide data-driven insights into patient arrival patterns, financial contributions, and stay durations.
 📊 Project Overview
 This project transforms raw patient arrival and revenue data from Silver Care Hospital into an interactive executive dashboard. The goal is to provide hospital leadership with a 360-degree view of operational efficiency, revenue distribution, and patient load patterns to optimize staffing and resource allocation.
