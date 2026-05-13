@@ -1,6 +1,7 @@
 # Silver-Care-Operational-Performance-Dashboard
 ![Silver Care Dashboard Preview](dashboard_preview.png)
-<img width="1320" height="633" alt="image" src="https://github.com/user-attachments/assets/beee88fb-4ac4-4381-8f56-4edc28d401d5" />
+<img width="1343" height="633" alt="image" src="https://github.com/user-attachments/assets/db8790d9-def5-4850-b7dc-d969790a5ab5" />
+
 
 
 To provide data-driven insights into patient arrival patterns, financial contributions, and stay durations.
